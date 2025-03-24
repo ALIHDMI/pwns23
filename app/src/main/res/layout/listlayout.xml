@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="8dp">
+    <TextView
+        android:id="@+id/nameTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Name"
+        android:layout_gravity="center"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+    <TextView
+        android:id="@+id/streetTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Street" />
+    <TextView
+        android:id="@+id/filialsTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Filials" />
+    <TextView
+        android:id="@+id/usdInTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="USD покупка: " />
+    <TextView
+        android:id="@+id/usdOutTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="USD продажа: " />
+    <TextView
+        android:id="@+id/rubInTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="RUB покупка: " />
+    <TextView
+        android:id="@+id/rubOutTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="RUB продажа: " />
+    <TextView
+        android:id="@+id/eurInTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="EUR покупка: " />
+    <TextView
+        android:id="@+id/eurOutTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="EUR продажа: " />
+</LinearLayout>

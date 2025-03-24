@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">КУРСЫ ВАЛЮТ</string>
+    <string name="buttonFind">Поиск</string>
+    <string name="buttonMinsk">Минск</string>
+    <string name="buttonBrest">Брест</string>
+    <string name="buttonMogilev">Могилев</string>
+    <string name="buttonVitebsk">Витебск</string>
+    <string name="buttonGrodno">Гродно</string>
+    <string name="buttonGomel">Гомель</string>
+
+
+
+</resources>
